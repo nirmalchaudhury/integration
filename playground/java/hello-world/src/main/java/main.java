@@ -9,7 +9,7 @@ public class main {
 	 */
 	public static void main(String[] names) {
 		if (names.length == 0) {
-			System.out.println("Hello World!");
+			System.out.println("Hello Earth!");
 		}
 		else {
 			for(String name : names) {
